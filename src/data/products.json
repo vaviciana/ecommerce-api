@@ -29,5 +29,16 @@
     "price": 40,
     "stock": 15,
     "category": "ropa"
+  },
+  {
+    "id": 4,
+    "status": true,
+    "thumbnails": [],
+    "title": "Sudadera",
+    "description": "Con capucha",
+    "code": "ABC123",
+    "price": 30,
+    "stock": 5,
+    "category": "ropa"
   }
 ]
